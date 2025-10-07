@@ -3,7 +3,7 @@
 Este repositorio reúne varios proyectos académicos realizados durante mi formación en Tecnólogo en Informática (CURE Maldonado).
 
 ## 📂 Contenido
-- **Proyectos en varios lenguajes (C++, java)** – Juegos , Organigrama
+- **Proyectos en varios lenguajes (C++, java)** – Juegos , Organigrama , etc
 
 ## 👨‍💻 Sobre mí
 Estudiante de Tecnólogo en Informática, apasionado por la tecnología, el aprendizaje constante y el trabajo en equipo.
